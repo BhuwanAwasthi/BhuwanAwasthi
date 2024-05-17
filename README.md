@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BhuwanAwasthi
-- 👀 I’m interested in coding, web3 development and smart contract development
-- 🌱 I’m currently learning javascript, solidity and python
-- 💞️ I’m looking to collaborate on dapp development projects
+- 👀 I’m interested in solving real world problems and developing industrial projects
+- 🌱 Already sold two of my softwares as service to 2 different companies
+- 🌱 Closed 4 Web Dev clients and still counting
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me at my email bhuwanawasthi2021@gmail.com
 
 
